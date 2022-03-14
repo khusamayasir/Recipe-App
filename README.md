@@ -1,2 +1,2 @@
-# Recipe-App
-A simple recipe application through JavaScript.
+# Recipes-App
+A simple recipes application through JavaScript.
