@@ -1,7 +1,7 @@
 # Recipes-App
 A simple recipes application through JavaScript.
 
-You Can Chcek Here: https://reipes-app-khusamayasir.netlify.app/
+You can check here: https://reipes-app-khusamayasir.netlify.app/
 
 #
 Desktop View:
